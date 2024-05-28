@@ -1,3 +1,4 @@
+#简单的单/双链表反转
 import random
 
 class Node:
